@@ -6013,4 +6013,9 @@
   <java-symbol type="string" name="fingerprint_frr_notification_title" />
   <java-symbol type="string" name="fingerprint_frr_notification_msg" />
 
+  <java-symbol type="bool" name="config_devcieHasSecondaryLightSensor" />
+  <java-symbol type="string" name="config_secondaryLightSensorName" />
+  <java-symbol type="string" name="config_secondaryLightSensorType" />
+  <java-symbol type="integer" name="config_secondaryLightSensorPosition" />
+  <java-symbol type="array" name="config_secondaryLightSensorStrategy" />
 </resources>
